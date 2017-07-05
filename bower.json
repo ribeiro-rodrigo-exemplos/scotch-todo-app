@@ -1,0 +1,28 @@
+{
+  "name": "scotch-todo-app",
+  "authors": [
+    "Rodrigo Ribeiro <rodrigo.rs1989@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.9",
+    "paper-checkbox": "polymerelements/paper-checkbox#^2.0.0",
+    "iron-input": "polymerelements/iron-input#^2.0.0",
+    "paper-input": "polymerelements/paper-input#^2.0.1",
+    "paper-drawer-panel": "polymerelements/paper-drawer-panel#^2.0.0",
+    "paper-button": "polymerelements/paper-button#^2.0.0",
+    "paper-fab": "polymerelements/paper-fab#^2.0.0",
+    "paper-menu": "polymerelements/paper-menu#^1.3.0",
+    "iron-icons": "polymerelements/iron-icons#^2.0.1"
+  }
+}
